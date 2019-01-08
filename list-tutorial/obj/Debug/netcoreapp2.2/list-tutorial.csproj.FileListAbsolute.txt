@@ -1,0 +1,11 @@
+/home/ethan/dev/AspProject/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.deps.json
+/home/ethan/dev/AspProject/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.runtimeconfig.json
+/home/ethan/dev/AspProject/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.runtimeconfig.dev.json
+/home/ethan/dev/AspProject/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.dll
+/home/ethan/dev/AspProject/list-tutorial/bin/Debug/netcoreapp2.2/list-tutorial.pdb
+/home/ethan/dev/AspProject/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.csprojAssemblyReference.cache
+/home/ethan/dev/AspProject/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.csproj.CoreCompileInputs.cache
+/home/ethan/dev/AspProject/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.AssemblyInfoInputs.cache
+/home/ethan/dev/AspProject/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.AssemblyInfo.cs
+/home/ethan/dev/AspProject/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.dll
+/home/ethan/dev/AspProject/list-tutorial/obj/Debug/netcoreapp2.2/list-tutorial.pdb

@@ -10,6 +10,6 @@ public class HelloWorld : Form
 
     public HelloWorld ()
     {
-        Text = "Hello Mono World, BAM!";
+        Text = "Hello Mono World,";
     }
 }
